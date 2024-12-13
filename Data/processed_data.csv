@@ -477,7 +477,7 @@ ASUS,ASUS VivoBook Pro 15 OLED M3500QC-L1502WS,AMD Hexa-Core Ryzen 5,AMD,16,16, 
 HP,HP 15-fc0028AU,AMD Quad-Core Ryzen 5,AMD,16,8, LPDDR5 RAM ,4.2,LCD,15.6,Integrated Graphics,AMD,512,0,65.0,Windows 11,0,13049700
 HP,HP 245 G8,AMD Dual-Core Ryzen 3,AMD,0,8, DDR4 RAM,2.6,LCD,14.0,Integrated Graphics,AMD,512,0,65.0,DOS,0,7199700
 Samsung,Samsung Galaxy Book 360 Intel Evo 13.3 2 360 13.3,Intel Core i7 (12th Gen),Intel,0,16, DDR4 RAM,4.7,LED,13.3,Integrated Graphics,Intel,512,0,65.0,Windows 11,0,29397000
-Dell,Dell Inspiron 15 3511,Intel Core i5 (11th Gen),Intel,16,8, DDR4 RAM ,2.4,LCD,15.6,GeForce MX350,NIVIDIA,512,0,65.0,Windows 11,2,14999700
+Dell,Dell Inspiron 15 3511,Intel Core i5 (11th Gen),Intel,16,8, DDR4 RAM ,2.4,LCD,15.6,GeForce MX350,NVIDIA,512,0,65.0,Windows 11,2,14999700
 Gigabyte,Gigabyte G5 MF-G2IN313SH,Intel Core i7 (12th Gen) Processor,Intel,64,16, DDR4 RAM ,2.5,LCD,15.6,GeForce RTX 4050,NVIDIA,512,0,65.0,Windows 11,6,21297000
 ASUS,ASUS VivoBook Flip 14 TP3402ZA-LZ501WS,Intel Core i5 (12th Gen),Intel,0,8, DDR4 RAM,3.3,LCD,14.0,Integrated Graphics,Intel,512,0,65.0,Windows 11,0,28200000
 Lenovo,Lenovo Legion 5 15ACH6,AMD Octa-Core Ryzen 7,AMD,16,16, DDR4 RAM ,3.3,LCD,15.6,GeForce RTX 3050,NVIDIA,512,0,65.0,Windows 11,4,35730000
@@ -1349,7 +1349,7 @@ Acer,Acer Predator Triton 700 PT715-51,Intel Core i7 (7th Gen),Intel,32,16, DDR4
 Acer,Acer Predator Triton 300 PT315-52,Intel Core i5 (10th Gen),Intel,32,8, DDR4 RAM ,2.5,LED,15.6,GeForce GTX 1650 Ti,NVIDIA,512,0,180.0,Windows 10,4,22497000
 Acer,Acer Aspire 3 A315-23-R2M0,AMD Quad-Core Ryzen 5,AMD,12,8, DDR4 RAM ,3.4,LED,15.6,Integrated Graphics,AMD,512,0,45.0,Windows 10,0,11399700
 ASUS,ASUS VivoBook 15 F512JA-AS54,Intel Core i5 (10th Gen),Intel,12,8, DDR4 RAM ,3.4,LCD,15.6,Integrated Graphics,Intel,512,0,65.0,Windows 10,0,24145500
-HP,HP Pavilion 15-ec2146AX,AMD Octa-Core Ryzen 7,AMD,0,16, DDR4 RAM,4.2,LCD,15.6,GeForce RTX 3050,Nvidia,512,0,65.0,Windows 11,4,19467000
+HP,HP Pavilion 15-ec2146AX,AMD Octa-Core Ryzen 7,AMD,0,16, DDR4 RAM,4.2,LCD,15.6,GeForce RTX 3050,NVIDIA,512,0,65.0,Windows 11,4,19467000
 HP,HP Pavilion Gaming 16-a0030TX,Intel Core i7 (10th Gen),Intel,0,16, DDR4 RAM,2.6,LED,16.1,GeForce GTX 1650 Ti,NVIDIA,256,1024,200.0,Windows 10,6,32997000
 Acer,Acer Aspire E5-576,Intel Core i3 (6th Gen),Intel,8,4, DDR3 RAM ,2.0,LED,15.6,Integrated Graphics,Intel,64,1024,41.0,Windows 10,0,7347000
 Lenovo,Lenovo Legion Y530,Intel Core i5 (8th Gen),Intel,16,8, DDR4 RAM ,2.3,LED,15.6,GeForce GTX 1050,NVIDIA,64,1024,52.0,Windows 10,4,15897000
@@ -1374,7 +1374,7 @@ Acer,Acer Aspire 5 A514-54-50LC,Intel Core i5 (11th Gen),Intel,0,8, DDR4 RAM,4.2
 Dell,Dell Inspiron 7000 15 7577,Intel Core i7 (7th Gen),Intel,32,16, DDR4 RAM ,2.8,LED,15.6,GeForce GTX 1060,NVIDIA,256,1024,56.0,Windows 10,6,34497000
 Lenovo,Lenovo Yoga 520,Intel Core i5 (7th Gen),Intel,16,8, DDR4 RAM ,2.5,LED,14.0,Integrated Graphics,Intel,64,1024,35.0,Windows 10,0,21352500
 Lenovo,Lenovo Ideapad Yoga 510,Intel Core i5 (7th Gen),Intel,0,8, DDR4 RAM,2.5,LED,14.0,Radeon R16M-M1-30,AMD,64,1024,35.0,Windows 10,2,20726400
-ASUS,ASUS ROG GL553VD-FY103T,Intel Core i7 (7th Gen),Intel,16,8, DDR4 RAM ,2.8,LED,15.6,GeForce GTX 1050 Ti,Nvidia,64,1024,65.0,Windows 10,4,32397000
+ASUS,ASUS ROG GL553VD-FY103T,Intel Core i7 (7th Gen),Intel,16,8, DDR4 RAM ,2.8,LED,15.6,GeForce GTX 1050 Ti,NVIDIA,64,1024,65.0,Windows 10,4,32397000
 Lenovo,Lenovo Ideapad 520S,Intel Core i5 (7th Gen),Intel,0,8, DDR4 RAM,2.5,LED,14.0,Integrated Graphics,Intel,128,1024,65.0,Windows 10,0,18634800
 Lenovo,Lenovo Ideapad 330-15ICH,Intel Core i5 (8th Gen),Intel,16,8, DDR4 RAM ,2.3,LED,15.6,GeForce GTX 1050,NVIDIA,64,1024,135.0,Windows 10,4,16497000
 Lenovo,Lenovo Ideapad 320,Intel Core i3 (6th Gen),Intel,8,4, DDR4 RAM ,2.0,LED,15.6,Integrated Graphics,Intel,64,2048,65.0,Windows 10,0,11249400
@@ -2350,8 +2350,8 @@ Dell,Dell Alienware x15 R2,Intel Core i7 (12th Gen),Intel,0,16, LPDDR5 RAM,4.7,L
 ASUS,ASUS ROG Strix G17 G713RW-KH110WS,AMD Octa-Core Ryzen 9,AMD,32,16, DDR5 RAM ,4.8,LCD,17.3,GeForce RTX 3070 Ti,NVIDIA,1024,0,280.0,Windows 11,8,62397000
 Dell,Dell Inspiron 15 3511,Intel Core i5 (11th Gen),Intel,32,8, DDR4 RAM ,2.4,LCD,15.6,Integrated Graphics,Intel,512,0,65.0,Windows 10,0,15899700
 ASUS,ASUS ROG Strix G15 G512LI-HN177T,Intel Core i5 (10th Gen),Intel,32,8, DDR4 RAM ,2.5,LED,15.6,GeForce GTX 1650 Ti,NVIDIA,512,0,150.0,Windows 10,4,25943700
-Lenovo,Lenovo Thinkpad P15v,Intel Core i7 (11th Gen),Intel,64,16, DDR4 RAM ,2.3,LCD,15.6,Quadro T600,Nvidia,1024,0,68.0,Windows 10,4,44997000
-Lenovo,Lenovo Thinkpad P15v,Intel Core i7 (11th Gen),Intel,64,32, DDR4 RAM ,2.3,LCD,15.6,Quadro T1200,Nvidia,1024,0,135.0,Windows 10,4,50997000
+Lenovo,Lenovo Thinkpad P15v,Intel Core i7 (11th Gen),Intel,64,16, DDR4 RAM ,2.3,LCD,15.6,Quadro T600,NVIDIA,1024,0,68.0,Windows 10,4,44997000
+Lenovo,Lenovo Thinkpad P15v,Intel Core i7 (11th Gen),Intel,64,32, DDR4 RAM ,2.3,LCD,15.6,Quadro T1200,NVIDIA,1024,0,135.0,Windows 10,4,50997000
 ASUS,ASUS VivoBook 15 X515JA-EJ302TS,Intel Core i3 (10th Gen),Intel,12,4, DDR4 RAM ,3.4,LED,15.6,Integrated Graphics,Intel,64,1024,37.0,Windows 10,0,10080000
 MSI,MSI GF63 Thin 11SC-1046IN,Intel Core i5 (11th Gen),Intel,0,8, DDR4 RAM,4.7,LCD,15.6,GeForce GTX 1650 MAX Q,NVIDIA,512,0,120.0,Windows 11,4,15297000
 ASUS,ASUS VivoBook Pro 15 M6500QF-HN521WS,AMD Hexa-Core Ryzen 5,AMD,0,8, DDR4 RAM,3.3,LCD,15.6,GeForce RTX 2050,NVIDIA,512,0,120.0,Windows 11,4,14997000
@@ -3414,14 +3414,14 @@ ASUS,ASUS VivoBook 14 X1402ZA-EK521WS,Intel Core i5 (12th Gen),Intel,0,8, DDR4 R
 HP,HP 15-ba007au,AMD Quad-Core APU,AMD,0,4, DDR3 RAM,1.8,LED,15.6,Integrated Graphics,AMD,64,500,65.0,DOS,0,6297000
 ASUS,ASUS ROG Zephyrus G14 GA401QH-BM070TS,AMD Octa-Core Ryzen 7,AMD,0,8, DDR4 RAM,3.0,LED,14.0,GeForce GTX 1650,NVIDIA,512,0,76.0,Windows 10,4,27177000
 HP,HP 15-ba021ax,AMD Quad-Core A10 APU,AMD,0,4, DDR4 RAM,2.4,LED,15.6,Radeon R7 M440,AMD,64,1024,65.0,DOS,2,10139700
-ASUS,ASUS X541UV-XO029D,Intel Core i5 (6th Gen),Intel,16,4, DDR3 RAM ,2.3,LED,15.6,GeForce 920MX,Nvidia,64,1024,65.0,DOS,2,10497000
+ASUS,ASUS X541UV-XO029D,Intel Core i5 (6th Gen),Intel,16,4, DDR3 RAM ,2.3,LED,15.6,GeForce 920MX,NVIDIA,64,1024,65.0,DOS,2,10497000
 HP,HP Pavilion x360 11-k107TU,Intel Pentium Quad-Core,Intel,8,4, DDR3 RAM ,1.6,LED,11.6,Integrated Graphics,Intel,64,500,65.0,Windows 10,0,10027200
 Lenovo,Lenovo V15,AMD Dual-Core Athlon,AMD,0,4, DDR4 RAM,2.3,LED,15.6,Integrated Graphics,AMD,64,1024,65.0,Windows 10,0,5903700
 MSI,MSI CX62 7QL,Intel Core i7 (7th Gen),Intel,16,4, DDR4 RAM ,2.7,LED,15.6,GeForce 940M,NVIDIA,64,1024,65.0,DOS,2,16197000
 ASUS,ASUS VivoBook 14 X1402ZA-MW311WS,Intel Core i3 (12th Gen),Intel,0,8, DDR4 RAM,3.3,LCD,14.0,Integrated Graphics,Intel,512,0,65.0,Windows 11,0,11397000
 Microsoft,Microsoft Surface Pro 4,Intel Core i5 (6th Gen),Intel,0,8, DDR3 RAM,2.4,LCD,12.3,Integrated Graphics,Intel,256,0,65.0,Windows 10,0,29997000
 ASUS,ASUS X543UA-DM841T,Intel Core i3 (8th Gen),Intel,0,4, DDR4 RAM,2.2,LED,15.0,Integrated Graphics,Intel,64,1024,45.0,Windows 10,0,6842100
-ASUS,ASUS R558UR-DM069D,Intel Core i5 (6th Gen),Intel,8,4, DDR3 RAM ,2.3,LED,15.6,GeForce 930M,Nvidia,64,1024,65.0,DOS,2,12897000
+ASUS,ASUS R558UR-DM069D,Intel Core i5 (6th Gen),Intel,8,4, DDR3 RAM ,2.3,LED,15.6,GeForce 930M,NVIDIA,64,1024,65.0,DOS,2,12897000
 Lenovo,Lenovo Ideapad S340,AMD Dual-Core Ryzen 3,AMD,12,8, DDR4 RAM ,2.6,LED,14.0,Integrated Graphics,AMD,128,1024,65.0,Windows 10,0,15867000
 ASUS,ASUS TUF FX706HCB-HX191T,Intel Core i7 (11th Gen),Intel,0,16, DDR4 RAM,2.3,LED,17.3,GeForce RTX 3050,NVIDIA,512,0,180.0,Windows 10,4,25350000
 HP,HP 15-BA025AU,AMD Quad-Core A6 APU,AMD,0,4, DDR3 RAM,2.0,LED,15.6,Integrated Graphics,AMD,64,500,65.0,DOS,0,6747000
@@ -3456,7 +3456,7 @@ HP,HP Pavilion 15-p275tx,Intel Core i3 (5th Gen),Intel,16,8, DDR3 RAM ,2.1,LED,1
 Acer,Acer Swift 3 SF314-51,Intel Core i3 (6th Gen),Intel,0,4, DDR4 RAM,2.0,LED,14.0,Integrated Graphics,Intel,128,0,45.0,Linux,0,11099700
 ASUS,ASUS ROG Strix G15 G513QM-HF406TS,AMD Octa-Core Ryzen 7,AMD,0,16, DDR3 RAM,3.3,LED,15.6,GeForce RTX 3060,NVIDIA,1024,0,240.0,Windows 10,6,44397000
 HP,HP Pavilion 15-N203TX,Intel Core i5 (4th Gen),Intel,0,4, DDR3 RAM,1.6,LED,15.6,Radeon HD 8670M,AMD,64,1024,65.0,Windows 8.1,1,13797000
-MSI,MSI GE62VR 7RF Apache Pro,Intel Core i7 (7th Gen),Intel,32,16, DDR4 RAM ,2.8,LED,15.6,GeForce GTX 1060,Nvidia,256,1024,180.0,Windows 10,6,41997000
+MSI,MSI GE62VR 7RF Apache Pro,Intel Core i7 (7th Gen),Intel,32,16, DDR4 RAM ,2.8,LED,15.6,GeForce GTX 1060,NVIDIA,256,1024,180.0,Windows 10,6,41997000
 HP,HP Pavilion TouchSmart 14 x360-14-dh1006tu,Intel Core i3 (10th Gen),Intel,0,4, DDR4 RAM,2.1,LED,14.0,Integrated Graphics,Intel,256,0,65.0,Windows 10,0,13332300
 HP,HP Pavilion 15-n207TU,Intel Core i3 (3rd Gen),Intel,12,4, DDR3 RAM ,1.8,LED,15.6,Integrated Graphics,Intel,64,500,65.0,Windows 8.1,0,11097000
 HP,HP 14-BS701TU,Intel Core i3 (6th Gen),Intel,0,4, DDR4 RAM,2.0,LED,14.0,Integrated Graphics,Intel,64,1024,41.0,Windows 10,0,8997000
@@ -3865,7 +3865,7 @@ ASUS,ASUS ROG Strix SCAR II GL504GV-ES019T,Intel Core i7 (8th Gen),Intel,32,16, 
 Dell,Dell Inspiron 15 3520,Intel Core i5 (12th Gen),Intel,16,8, DDR4 RAM ,3.3,LCD,15.6,GeForce MX550,NVIDIA,256,1024,45.0,Windows 11,2,17367000
 ASUS,ASUS Vivobook R542UQ-DM275T,Intel Core i7 (8th Gen),Intel,32,8, DDR4 RAM ,1.8,LED,15.6,GeForce 940MX,NVIDIA,64,1024,65.0,Windows 10,2,16557000
 MSI,MSI Modern 15 B7M-073IN,AMD Octa-Core Ryzen 7,AMD,16,16, DDR4 RAM ,4.2,LCD,15.6,Integrated Graphics,AMD,1024,0,65.0,Windows 11,0,16497000
-ASUS,ASUS R558UQ-DM1286D,Intel Core i5 (7th Gen),Intel,0,8, DDR4 RAM,2.5,LED,15.6,GeForce 940MX,Nvidia,64,1024,65.0,DOS,2,15897000
+ASUS,ASUS R558UQ-DM1286D,Intel Core i5 (7th Gen),Intel,0,8, DDR4 RAM,2.5,LED,15.6,GeForce 940MX,NVIDIA,64,1024,65.0,DOS,2,15897000
 Lenovo,Lenovo Legion Y540,Intel Core i5 (9th Gen),Intel,32,8, DDR4 RAM ,2.4,LED,15.6,GeForce RTX 2060,NVIDIA,256,1024,57.0,Windows 10,6,33267000
 AVITA,AVITA Liber NS14A2IN184P,Intel Core i3 (8th Gen),Intel,0,8, DDR4 RAM,2.2,LED,14.0,Integrated Graphics,Intel,128,0,36.0,Windows 10,0,11697000
 Dell,Dell Vostro 5620,Intel Core i5 (12th Gen),Intel,64,8, DDR4 RAM ,1.2,LCD,16.0,Integrated Graphics,Intel,512,0,65.0,Windows 11,0,19497000

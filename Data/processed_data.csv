@@ -558,7 +558,6 @@ Lenovo,Lenovo Thinkpad E14,Intel Core i5 (11th Gen),Intel,32,8, DDR4 RAM ,2.4,LC
 ASUS,ASUS VivoBook 15 X1502ZA-EJ523WS,Intel Core i5 (12th Gen),Intel,12,8, DDR4 RAM ,2.5,LCD,15.6,Integrated Graphics,Intel,512,0,65.0,Windows 11,0,14891700
 Lenovo,Lenovo ThinkBook 15,Intel Core i7 (11th Gen),Intel,0,16, DDR4 RAM,2.8,LCD,15.6,Integrated Graphics,Intel,512,0,65.0,Windows 11,0,23397000
 Acer,Acer Swift 5 Intel Evo SF514-55TA,Intel Core i5 (11th Gen),Intel,0,8, LPDDR4 RAM,4.2,LCD,14.0,Integrated Graphics,Intel,512,0,65.0,Windows 11,0,22287000
-Razer,Razer Blade 15 RZ09-0421NEC3-R3U1,Intel Core i7 (12th Gen),Intel,64,16, DDR5 RAM ,1.8,LCD,15.6,GeForce RTX 3070 Ti,NVIDIA,1024,0,45.0,Windows 10,8,107699700
 Samsung,Samsung Galaxy Book 4 NP750XGK-KG3IN,Intel Core 7 (Series 1),Intel,0,16, LPDDR4X RAM,1.8,LCD,15.6,Integrated Graphics,Intel,512,0,45.0,Windows 11,0,25497000
 Samsung,Samsung Galaxy Book 3 360 NP730QFG-KA3IN,Intel Core i7 (13th Gen),Intel,16,16, LPDDR4X RAM ,2.2,LED,13.3,Integrated Graphics,Intel,1024,0,65.0,Windows 11,0,40197000
 Dell,Dell G15-5520,Intel Core i7 (12th Gen),Intel,32,16, DDR5 RAM ,3.4,LCD,15.6,GeForce RTX 3060,NVIDIA,512,0,240.0,Windows 11,6,34587000

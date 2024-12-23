@@ -62,7 +62,7 @@ class Dashboard:
         HDD_average = floor(self.data['HDD'].mean())
         SSD_average = floor(self.data['SSD'].mean())
         
-        col1, col2, col3, col4, col5, col6 = st.columns(6, vertical_alignment='center')
+        col1, col2, col3, col4, col5, col6 = st.columns(6)
 
         with col1:
             st.metric(label="Number of Laptop", value=total_laptops)
@@ -153,7 +153,7 @@ class Dashboard:
         st.altair_chart(final_chart , use_container_width=False)
 
     def create_price_group_section(self) -> None:
-        col1, col2, col3 = st.columns(3, vertical_alignment='center')
+        col1, col2, col3 = st.columns(3)
 
         with col1:
             self.create_price_brand_plot()
@@ -205,7 +205,7 @@ class Dashboard:
         st.plotly_chart(fig)
 
     def create_pie_section(self) -> None:
-        col1, col2, col3 = st.columns(3, vertical_alignment='center')
+        col1, col2, col3 = st.columns(3)
 
         with col1:
             self.create_display_type_bar()
